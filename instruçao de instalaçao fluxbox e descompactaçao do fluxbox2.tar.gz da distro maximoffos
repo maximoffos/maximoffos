@@ -1,0 +1,26 @@
+sudo su
+
+apt install fluxbox
+
+
+va ao ditetorio
+
+cd /usr/share/images/fluxbox
+
+
+
+baixe com wget
+
+
+wget https://github.com/maximoffos/maximoffos/blob/main/fluxbox2.tar.gz?raw=true -O fluxbox2.tar.gz
+
+
+descompacte
+
+
+tar -xzvf fluxbox2.tar.gz
+
+elimine  o arquivo compactado
+
+
+rm fluxbox2.tar.gz
