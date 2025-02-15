@@ -1,0 +1,25 @@
+apt install xfce4
+
+va até o diretorio
+
+cd /usr/share/xfce4
+
+
+
+baixar com wget
+
+
+
+wget https://github.com/maximoffos/maximoffos/blob/main/xfce4.tar.gz?raw=true -O xfce4.tar.gz
+
+
+descompactar
+
+
+tar -xzvf xfce4.tar.gz
+
+
+remover arquivo compactado
+
+
+rm xfce4.tar.gz
