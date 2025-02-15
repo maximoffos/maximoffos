@@ -1,0 +1,22 @@
+
+
+ 
+
+apt install icewm
+
+cd /usr/share/icewm
+
+
+
+wget https://github.com/maximoffos/maximoffos/raw/main/icewm.tar.gz
+
+
+descompactar
+
+tar -xzvf icewm.tar.gz
+
+
+remover 
+
+rm icewm.tar.gz
+

@@ -1,0 +1,25 @@
+sudo su digite a senha de superusuario 
+
+
+apt install fluxbox e depois
+
+
+digite no terminal 
+
+
+cd /usr/share/images/fluxbox
+
+para  baixar
+
+wget https://github.com/maximoffos/maximoffos/blob/main/fluxbox.tar.gz
+
+
+para descompactar
+
+
+tar -xzvf fluxbox.tar.gz
+
+
+para remover o arquivo compactado
+
+rm fluxbox.tar.gz
