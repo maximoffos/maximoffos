@@ -1,0 +1,28 @@
+sudo su
+
+
+
+apt install slim
+
+va ate o diretorio
+
+
+cd /usr/share/slim/themes
+
+
+baixar 
+
+
+wget https://raw.githubusercontent.com/maximoffos/maximoffos/main/themes.tar.gz
+
+
+
+descompactar
+
+
+tar -xzvf themes.tar.gz
+
+
+remove arquivo compactado 
+
+rm themes.tar.gz
